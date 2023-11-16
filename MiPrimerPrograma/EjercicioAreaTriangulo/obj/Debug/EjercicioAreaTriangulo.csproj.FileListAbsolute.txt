@@ -1,0 +1,7 @@
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioAreaTriangulo\bin\Debug\EjercicioAreaTriangulo.exe.config
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioAreaTriangulo\bin\Debug\EjercicioAreaTriangulo.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioAreaTriangulo\bin\Debug\EjercicioAreaTriangulo.pdb
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioAreaTriangulo\obj\Debug\EjercicioAreaTriangulo.csproj.AssemblyReference.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioAreaTriangulo\obj\Debug\EjercicioAreaTriangulo.csproj.CoreCompileInputs.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioAreaTriangulo\obj\Debug\EjercicioAreaTriangulo.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioAreaTriangulo\obj\Debug\EjercicioAreaTriangulo.pdb

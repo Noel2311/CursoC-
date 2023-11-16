@@ -1,0 +1,7 @@
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioSuma\bin\Debug\EjercicioSuma.exe.config
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioSuma\bin\Debug\EjercicioSuma.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioSuma\bin\Debug\EjercicioSuma.pdb
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioSuma\obj\Debug\EjercicioSuma.csproj.AssemblyReference.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioSuma\obj\Debug\EjercicioSuma.csproj.CoreCompileInputs.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioSuma\obj\Debug\EjercicioSuma.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioSuma\obj\Debug\EjercicioSuma.pdb

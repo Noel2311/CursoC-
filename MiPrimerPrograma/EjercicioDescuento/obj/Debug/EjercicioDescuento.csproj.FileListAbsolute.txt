@@ -1,0 +1,7 @@
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioDescuento\bin\Debug\EjercicioDescuento.exe.config
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioDescuento\bin\Debug\EjercicioDescuento.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioDescuento\bin\Debug\EjercicioDescuento.pdb
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioDescuento\obj\Debug\EjercicioDescuento.csproj.AssemblyReference.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioDescuento\obj\Debug\EjercicioDescuento.csproj.CoreCompileInputs.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioDescuento\obj\Debug\EjercicioDescuento.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\EjercicioDescuento\obj\Debug\EjercicioDescuento.pdb

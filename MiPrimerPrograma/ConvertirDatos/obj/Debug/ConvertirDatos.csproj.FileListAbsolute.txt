@@ -1,0 +1,7 @@
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\ConvertirDatos\bin\Debug\ConvertirDatos.exe.config
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\ConvertirDatos\bin\Debug\ConvertirDatos.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\ConvertirDatos\bin\Debug\ConvertirDatos.pdb
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\ConvertirDatos\obj\Debug\ConvertirDatos.csproj.AssemblyReference.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\ConvertirDatos\obj\Debug\ConvertirDatos.csproj.CoreCompileInputs.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\ConvertirDatos\obj\Debug\ConvertirDatos.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\ConvertirDatos\obj\Debug\ConvertirDatos.pdb

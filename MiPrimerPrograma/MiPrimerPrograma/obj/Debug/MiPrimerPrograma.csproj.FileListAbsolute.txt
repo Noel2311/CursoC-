@@ -1,0 +1,7 @@
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\MiPrimerPrograma.exe.config
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\MiPrimerPrograma.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\MiPrimerPrograma.pdb
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.csproj.AssemblyReference.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.csproj.CoreCompileInputs.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.pdb

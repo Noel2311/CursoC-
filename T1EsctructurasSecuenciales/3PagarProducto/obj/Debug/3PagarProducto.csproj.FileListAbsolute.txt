@@ -1,0 +1,13 @@
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\3PagarProducto\bin\Debug\3PagarProducto.exe.config
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\3PagarProducto\bin\Debug\3PagarProducto.exe
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\3PagarProducto\bin\Debug\3PagarProducto.pdb
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\3PagarProducto\obj\Debug\3PagarProducto.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\3PagarProducto\obj\Debug\3PagarProducto.exe
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\3PagarProducto\obj\Debug\3PagarProducto.pdb
+D:\Cursos\Master c# Licito Hurol\T1EsctructurasSecuenciales\3PagarProducto\bin\Debug\3PagarProducto.exe.config
+D:\Cursos\Master c# Licito Hurol\T1EsctructurasSecuenciales\3PagarProducto\bin\Debug\3PagarProducto.exe
+D:\Cursos\Master c# Licito Hurol\T1EsctructurasSecuenciales\3PagarProducto\bin\Debug\3PagarProducto.pdb
+D:\Cursos\Master c# Licito Hurol\T1EsctructurasSecuenciales\3PagarProducto\obj\Debug\3PagarProducto.csproj.AssemblyReference.cache
+D:\Cursos\Master c# Licito Hurol\T1EsctructurasSecuenciales\3PagarProducto\obj\Debug\3PagarProducto.csproj.CoreCompileInputs.cache
+D:\Cursos\Master c# Licito Hurol\T1EsctructurasSecuenciales\3PagarProducto\obj\Debug\3PagarProducto.exe
+D:\Cursos\Master c# Licito Hurol\T1EsctructurasSecuenciales\3PagarProducto\obj\Debug\3PagarProducto.pdb

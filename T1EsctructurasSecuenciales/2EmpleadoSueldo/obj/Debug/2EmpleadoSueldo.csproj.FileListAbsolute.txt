@@ -1,0 +1,7 @@
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\2EmpleadoSueldo\bin\Debug\2EmpleadoSueldo.exe.config
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\2EmpleadoSueldo\bin\Debug\2EmpleadoSueldo.exe
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\2EmpleadoSueldo\bin\Debug\2EmpleadoSueldo.pdb
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\2EmpleadoSueldo\obj\Debug\2EmpleadoSueldo.csprojResolveAssemblyReference.cache
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\2EmpleadoSueldo\obj\Debug\2EmpleadoSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\2EmpleadoSueldo\obj\Debug\2EmpleadoSueldo.exe
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\2EmpleadoSueldo\obj\Debug\2EmpleadoSueldo.pdb

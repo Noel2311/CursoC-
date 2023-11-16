@@ -1,0 +1,7 @@
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasNumeros\bin\Debug\OperacionesBasicasNumeros.exe.config
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasNumeros\bin\Debug\OperacionesBasicasNumeros.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasNumeros\bin\Debug\OperacionesBasicasNumeros.pdb
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasNumeros\obj\Debug\OperacionesBasicasNumeros.csproj.AssemblyReference.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasNumeros\obj\Debug\OperacionesBasicasNumeros.csproj.CoreCompileInputs.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasNumeros\obj\Debug\OperacionesBasicasNumeros.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasNumeros\obj\Debug\OperacionesBasicasNumeros.pdb

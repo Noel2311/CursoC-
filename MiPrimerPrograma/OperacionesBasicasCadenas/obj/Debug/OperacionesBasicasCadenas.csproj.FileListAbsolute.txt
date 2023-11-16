@@ -1,0 +1,7 @@
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasCadenas\bin\Debug\OperacionesBasicasCadenas.exe.config
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasCadenas\bin\Debug\OperacionesBasicasCadenas.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasCadenas\bin\Debug\OperacionesBasicasCadenas.pdb
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasCadenas\obj\Debug\OperacionesBasicasCadenas.csproj.AssemblyReference.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasCadenas\obj\Debug\OperacionesBasicasCadenas.csproj.CoreCompileInputs.cache
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasCadenas\obj\Debug\OperacionesBasicasCadenas.exe
+D:\Cursos\Master c# Licito Hurol\MiPrimerPrograma\OperacionesBasicasCadenas\obj\Debug\OperacionesBasicasCadenas.pdb

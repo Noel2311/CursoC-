@@ -1,0 +1,7 @@
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\Ejercicios\EjercicioEdad\bin\Debug\EjercicioEdad.exe.config
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\Ejercicios\EjercicioEdad\bin\Debug\EjercicioEdad.exe
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\Ejercicios\EjercicioEdad\bin\Debug\EjercicioEdad.pdb
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\Ejercicios\EjercicioEdad\obj\Debug\EjercicioEdad.csproj.AssemblyReference.cache
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\Ejercicios\EjercicioEdad\obj\Debug\EjercicioEdad.csproj.CoreCompileInputs.cache
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\Ejercicios\EjercicioEdad\obj\Debug\EjercicioEdad.exe
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\Ejercicios\EjercicioEdad\obj\Debug\EjercicioEdad.pdb

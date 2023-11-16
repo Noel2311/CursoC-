@@ -1,0 +1,6 @@
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\1SemanaDia\bin\Debug\1SemanaDia.exe.config
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\1SemanaDia\bin\Debug\1SemanaDia.exe
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\1SemanaDia\bin\Debug\1SemanaDia.pdb
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\1SemanaDia\obj\Debug\1SemanaDia.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\1SemanaDia\obj\Debug\1SemanaDia.exe
+C:\Users\Noel\Desktop\Curso-c--main\T1EsctructurasSecuenciales\1SemanaDia\obj\Debug\1SemanaDia.pdb

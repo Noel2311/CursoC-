@@ -1,0 +1,7 @@
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\EstructurasSelectivas\bin\Debug\EstructurasSelectivas.exe.config
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\EstructurasSelectivas\bin\Debug\EstructurasSelectivas.exe
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\EstructurasSelectivas\bin\Debug\EstructurasSelectivas.pdb
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\EstructurasSelectivas\obj\Debug\EstructurasSelectivas.csproj.AssemblyReference.cache
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\EstructurasSelectivas\obj\Debug\EstructurasSelectivas.csproj.CoreCompileInputs.cache
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\EstructurasSelectivas\obj\Debug\EstructurasSelectivas.exe
+D:\Cursos\Master c# Licito Hurol\EstructurasSelectivas\EstructurasSelectivas\obj\Debug\EstructurasSelectivas.pdb
